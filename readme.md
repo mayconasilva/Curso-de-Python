@@ -1,0 +1,1 @@
+Curso de Python realizado pelo professor Gustavo Guanabara do canal Curso em Vídeo
